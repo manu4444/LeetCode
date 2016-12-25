@@ -35,7 +35,7 @@ public class Third_Maximum_Number_414 {
         if (thirdMax == Long.MIN_VALUE) { //there is no third max
             return (int) max;
         } else {
-            return (int) thirdMax;
+            return (int) thirdMax; 
         }
 
 
