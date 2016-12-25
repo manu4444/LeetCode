@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Created by maste on 12/24/2016.
  */
-public class Two_Sum {
+public class Two_Sum_1 {
     public static int[] twoSum(int[] nums, int target) {
 
         int[] temp = {0,0};

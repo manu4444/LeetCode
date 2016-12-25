@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Created by maste on 12/24/2016.
  */
-public class Reverse_Integer {
+public class Reverse_Integer_7 {
      public static int reverse(int x) {
             long reverse = 0;
             while( x != 0 ) {
