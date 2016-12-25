@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 /**
  * Created by maste on 12/25/2016.
+ *
+ * Just check the four cases that arises
  */
 public class Move_Zeroes_283 {
 
