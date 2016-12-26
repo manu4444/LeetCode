@@ -4,6 +4,18 @@ import java.util.Arrays;
 
 /**
  * Created by maste on 12/26/2016.
+ *
+ * This could have been solved by traversing in the front direction
+ *       int i = 0;
+ for (int j = 0; j < nums.length; j++) {
+ if (nums[j] != val) {
+ nums[i] = nums[j];
+ i++;
+ }
+ }
+ return i;
+
+ But the number of elements moved are less in my solution
  */
 public class Remove_Element_27 {
 
