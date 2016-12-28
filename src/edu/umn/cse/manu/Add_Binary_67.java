@@ -1,3 +1,5 @@
+package edu.umn.cse.manu;
+
 /**
  * Created by maste on 12/27/2016.
  */
